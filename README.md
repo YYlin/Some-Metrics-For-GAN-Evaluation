@@ -18,6 +18,7 @@ sudo pip install tensorflow-gpu==1.15.0
 
 
 ## Reference
-[GAN_Metrics-Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+[GAN_Metrics-Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  
+
 [tf.contrib.gan.eval.run_inception](https://docs.w3cub.com/tensorflow~python/tf/contrib/gan/eval/run_inception/)
 
