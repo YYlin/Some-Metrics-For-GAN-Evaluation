@@ -2,7 +2,8 @@
 Collection of metrics for GAN evaluation, e.g. 'Fréchet Inception Distance'(FID), 'Kernel Inception Distance', 'Inception score' (IS) in Tensorflow.
 
 ## Some configurations for our model
->sudo pip install tensorflow-gan==1.0.0.dev0  sudo pip install tensorflow-gpu==1.15.0
+>sudo pip install tensorflow-gan==1.0.0.dev0  
+sudo pip install tensorflow-gpu==1.15.0
 
 ## Test
 | metrics                    | paper                                   | Performance score. | commands                     |
