@@ -10,7 +10,7 @@ sudo pip install tensorflow-gpu==1.15.0
 ## Test
 | metrics                    | paper                                   | Performance score. | commands                     |
 | ----------                 | :-----------:                           | :-----------:      | :-----------:                |
-| Fréchet Inception Distance |  [KID](https://arxiv.org/abs/1706.08500)| Higher is better.  | `python main.py --model Fid` |
+| Fréchet Inception Distance |  [FID](https://arxiv.org/abs/1706.08500)| Higher is better.  | `python main.py --model Fid` |
 |                            |                                         |                    |                              |
 | Kernel Inception Distance  | [KID](https://arxiv.org/abs/1801.01401) | Lower is better.   | `python main.py --model Kid` |
 |                            |                                         |                    |                              |
