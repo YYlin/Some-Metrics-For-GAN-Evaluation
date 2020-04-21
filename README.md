@@ -20,10 +20,10 @@ By using different commands, you canYou can chose different metrics：
 | metrics                    | commands     |
 |                            |  
 | Fréchet Inception Distance | 'python main.py --model Fid'|
-|                            |                             
+|                            |                             |
 | Kernel Inception Distance  | 'python main.py --model Kid'|
-|                            |  
-| Inception score            | 'python main.py --model Is'|
+|                            |                             |
+| Inception score            | 'python main.py --model Is' |
 
 ## Reference
 [GAN_Metrics-Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
