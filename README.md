@@ -1,4 +1,4 @@
-# the three metrics for GAN evaluation
+# Three metrics for GAN evaluation
 Collection of metrics for GAN evaluation, e.g. 'Fréchet Inception Distance'(FID), 'Kernel Inception Distance', 'Inception score' (IS) in Tensorflow.
 
 
