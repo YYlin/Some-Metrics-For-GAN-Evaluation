@@ -7,6 +7,7 @@ sudo pip install tensorflow-gpu==1.15.0
 
 ## Lists
 | name                       | paper                                   | Performance score. | datasets      |
+| ----------                 | :-----------:                           | :-----------: |    | :-----------: |
 | Fréchet Inception Distance |  [KID](https://arxiv.org/abs/1706.08500)| Higher is better.  | fake          |
 | Kernel Inception Distance  | [KID](https://arxiv.org/abs/1801.01401) | Lower is better.   | real and fake |
 | Inception score            | [IS](https://arxiv.org/abs/1606.03498)  | Lower is better.   | real and fake |
