@@ -18,7 +18,7 @@ sudo pip install tensorflow-gpu==1.15.0
 By using different commands, you canYou can chose different metrics：
 
 | metrics                    | commands     |
-|     ----------                        |    :-----------:          |
+|     ----------             |    :-----------:          |
 | Fréchet Inception Distance | 'python main.py --model Fid'|
 |                            |                             |
 | Kernel Inception Distance  | 'python main.py --model Kid'|
